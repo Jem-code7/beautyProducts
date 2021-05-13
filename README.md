@@ -1,1 +1,1 @@
-beautyProducts
+magnolia
